@@ -52,5 +52,5 @@ jobs:
       with:
         app-name: 'falacmg'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_e5e9ce5ac0224cc0a9746764a4484577 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_6a7c71b882e1411592aadbb337de4c24 }}
         package: .
